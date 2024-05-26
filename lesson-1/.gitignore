@@ -1,0 +1,7 @@
+.github
+.vscode
+.nx
+/dist
+/node_modules
+tmp
+.env
